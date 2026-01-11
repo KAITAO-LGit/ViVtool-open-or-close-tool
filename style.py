@@ -151,7 +151,7 @@ LANG = {
     "en": {
         # Window
         "title": "ViVeTool Manager",
-        "version": "v3.9 Future Edition",
+        "version": "v3.9 KAITAO-LGit",
         
         # Config section
         "config_title": "⚙️ System Config",
