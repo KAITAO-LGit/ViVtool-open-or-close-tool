@@ -1,7 +1,7 @@
 ---
 TCRAPGM:
     ContentProducer: KAITAO-LGit
-    ContentPropagator: KAITAO-LGit
+    ContentPropagator: Github
     assistant AI: Minimax Agent AI
     Label: AIGC
     
